@@ -1,1 +1,3 @@
 # Smart-parking-system-using-IOT
+
+The Smart Parking System utilizing IoT technology integrates sensors deployed in parking spaces to detect vehicle presence, relaying real-time data to a centralized server via an IoT gateway. This system processes information on parking availability, stored in a cloud-based platform, and offers users an intuitive mobile/web app interface for accessing live updates on vacant spots, navigating to available parking, enabling reservations, and facilitating payments. By optimizing parking efficiency, reducing congestion, and enhancing user convenience, this innovation revolutionizes urban mobility while enabling data-driven city planning for future infrastructure improvements.
